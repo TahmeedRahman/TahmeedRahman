@@ -6,7 +6,7 @@
 <h2>Aspiring Fullstack Developer. </h2>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/tahmeed-rahman-9a3966322/">
+  <a href="https://www.linkedin.com/in/tahmeed-rahman-9a3966322/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
