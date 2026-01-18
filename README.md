@@ -9,14 +9,11 @@
   <a href="www.linkedin.com/in/tahmeed-rahman-9a3966322-py/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-  <!---
-
-</div>
-<div id="profile views" align="center">
-<img src="https://komarev.com/ghpvc/?username=Baobear520&style=flat-square&color=blue" alt=""/>
 </div>
 
+
+
+<!---
 <h4>
   
 🤓 I develop RESTful backend apps and web parsers, work with external APIs and databases.
@@ -141,3 +138,4 @@
     
 ---
 -->
+
